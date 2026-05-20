@@ -9,7 +9,7 @@
 
 - 🔭 Currently building projects with **PHP** and **Vue.js**
 - 🛡️ Diving deep into the world of **cybersecurity**
-- ⚡ Fun fact: I find most bugs right after my second coffee ☕
+
 
 ---
 
