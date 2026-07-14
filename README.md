@@ -1,6 +1,8 @@
-## Hi there 👋
-🚀 Full-Stack Developer · PHP & Vue.js · Cybersecurity Enthusiast
+<div align="center">
+# Hi there 👋
  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ED9A8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%9A%80;PHP+%26+Vue.js+Enthusiast;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</div>
 ---
  
 ## 🐍 Contribution Snake
@@ -10,12 +12,14 @@
 ---
  
 ## 🧑‍💻 About Me
-- 🔭 Currently building projects with **PHP** and **Vue.js**
+- 🔭 Currently building projects with **PHP**, **Laravel** and **Vue.js**
 - 🛡️ Diving deep into the world of **cybersecurity**
+- 🌱 Curious about **C++** — exploring it out of interest
 ---
  
 ## 🛠️ Tech Stack
  
+<div align="center">
 **Backend**
  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,4 +42,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
+</div>
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gaborati&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaborati&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 ---
