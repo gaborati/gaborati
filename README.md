@@ -3,9 +3,7 @@
  
 ---
  
-## 🐍 Contribution Snake
- 
-![Snake animation](https://raw.githubusercontent.com/gaborati/gaborati/output/github-contribution-grid-snake.svg)
+
  
 ---
  
