@@ -1,5 +1,5 @@
-## Hi there 👋
-🚀 Full-Stack Developer · PHP & Vue.js · Cybersecurity Enthusiast
+## Hi there 
+ Full-Stack Developer · PHP & Vue.js · Cybersecurity Enthusiast
  
 ---
  
