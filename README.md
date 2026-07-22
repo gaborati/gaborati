@@ -8,7 +8,7 @@
 ---
  
 ## 🧑‍💻 About Me
-- 🔭 Currently building projects with **PHP**, **Laravel** and **Vue.js**
+- 🔭 Building projects with **PHP**, **Laravel** and **Vue.js**
 - 🛡️ Diving deep into the world of **cybersecurity**
 - 🌱 Curious about **C++** — exploring it out of interest
 ---
