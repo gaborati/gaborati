@@ -38,5 +38,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
 ---
-
-![Codewars Stats](https://img.shields.io/badge/Codewars%20Stats-4%20kyu-orange?style=for-the-badge&logo=codewars)
+![Codewars](https://github.r2v.ch/codewars?user=gaborati&name=true&top_languages=true&hide_clan=true&hide_title=true&theme=dark)
