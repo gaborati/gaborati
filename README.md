@@ -38,3 +38,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
 ---
+
+
+![Codewars](https://github.r2v.ch/codewars?user=gaborati&name=true&top_languages=true&theme=dark)
