@@ -5,13 +5,7 @@
  
 
  
----
  
-##  About Me
--  Building projects with **PHP**, **Laravel** and **Vue.js**
--  Diving deep into the world of **cybersecurity**
--  Curious about **C++** — exploring it out of interest
----
  
 ## Tech Stack
  
