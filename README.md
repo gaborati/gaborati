@@ -39,5 +39,4 @@
  
 ---
 
-
-![Codewars](https://github.r2v.ch/codewars?user=gaborati&name=true&top_languages=true&theme=dark)
+![Codewars Stats](https://img.shields.io/badge/Codewars%20Stats-4%20kyu-orange?style=for-the-badge&logo=codewars)
