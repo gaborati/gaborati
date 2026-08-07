@@ -1,12 +1,7 @@
-## Hi there 
+
  Full-Stack Developer 
  
----
- 
 
- 
- 
- 
 ## Tech Stack
  
 **Backend**
