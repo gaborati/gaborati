@@ -175,9 +175,9 @@ function buildSvg(user) {
   const cardHeight = y + 20;
  
   const svg = `<svg width="${cardWidth}" height="${cardHeight}" viewBox="0 0 ${cardWidth} ${cardHeight}" xmlns="http://www.w3.org/2000/svg" role="img">
-<title>LeetCode stats for ${escapeXml(USERNAME)}</title>
+<title>LeetCode stats</title>
 <rect x="0" y="0" width="${cardWidth}" height="${cardHeight}" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-<text x="${padX}" y="42" fill="#e6edf3" font-size="18" font-family="sans-serif" font-weight="600">LeetCode stats — ${escapeXml(USERNAME)}</text>
+<text x="${padX}" y="42" fill="#e6edf3" font-size="18" font-family="sans-serif" font-weight="600">LeetCode stats</text>
 ${svgParts.join("\n")}
 </svg>`;
  
