@@ -34,30 +34,5 @@
 **LeetCode** 
 ---
 <!-- LEETCODE-STATS:START -->
-### Languages
-
-| Language | Problems solved |
-|----------|------------------|
-| PHP | 4 |
-| JavaScript | 2 |
-| MySQL | 1 |
-
-### Skills
-
-**Advanced**
-
-- [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) x1
-
-**Intermediate**
-
-- [Math](https://leetcode.com/tag/math/) x4
-- [Hash Table](https://leetcode.com/tag/hash-table/) x2
-- [Database](https://leetcode.com/tag/database/) x1
-
-**Fundamental**
-
-- [Array](https://leetcode.com/tag/array/) x2
-- [String](https://leetcode.com/tag/string/) x1
-
-_Last updated: 2026-08-08 11:47 UTC_
+![LeetCode stats](./leetcode-card.svg)
 <!-- LEETCODE-STATS:END -->
