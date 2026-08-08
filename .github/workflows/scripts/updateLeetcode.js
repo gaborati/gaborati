@@ -8,7 +8,7 @@
  
 import fs from "fs";
  
-
+const USERNAME = process.env.LEETCODE_USERNAME || "aaa96";
 const README_PATH = "README.md";
 const SVG_PATH = "leetcode-card.svg";
  
