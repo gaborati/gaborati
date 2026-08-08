@@ -25,7 +25,7 @@ jobs:
       - name: Fetch stats and update README
         env:
           LEETCODE_USERNAME: aaa96
-        run: node scripts/update-leetcode-stats.js
+        run: node scripts/updateLeetcode.js
  
       - name: Commit changes
         run: |
