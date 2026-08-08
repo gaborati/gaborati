@@ -33,4 +33,4 @@
 
 **LeetCode** 
 ---
-![LeetCode](https://github-readme-leetcode-card.romitsagu.com/aaa96?theme=tokyonight&show=graph,recent)
+![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/api?username=aaa96)
