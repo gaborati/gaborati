@@ -6,14 +6,14 @@
 <text x="28" y="106" fill="#e6edf3" font-size="13" font-family="sans-serif">PHP</text>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#21262d"/>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#F0997B"/>
-<text x="430" y="106" fill="#8b949e" font-size="12" font-family="sans-serif">4</text>
+<text x="430" y="106" fill="#8b949e" font-size="12" font-family="sans-serif">5</text>
 <text x="28" y="132" fill="#e6edf3" font-size="13" font-family="sans-serif">JavaScript</text>
 <rect x="120" y="120" width="300" height="14" rx="7" fill="#21262d"/>
-<rect x="120" y="120" width="150" height="14" rx="7" fill="#EF9F27"/>
+<rect x="120" y="120" width="120" height="14" rx="7" fill="#EF9F27"/>
 <text x="430" y="132" fill="#8b949e" font-size="12" font-family="sans-serif">2</text>
 <text x="28" y="158" fill="#e6edf3" font-size="13" font-family="sans-serif">MySQL</text>
 <rect x="120" y="146" width="300" height="14" rx="7" fill="#21262d"/>
-<rect x="120" y="146" width="75" height="14" rx="7" fill="#5DCAA5"/>
+<rect x="120" y="146" width="60" height="14" rx="7" fill="#5DCAA5"/>
 <text x="430" y="158" fill="#8b949e" font-size="12" font-family="sans-serif">1</text>
 <line x1="28" y1="194" x2="652" y2="194" stroke="#21262d" stroke-width="1"/>
 <text x="28" y="222" fill="#8b949e" font-size="13" font-family="sans-serif">Skills</text>
@@ -29,8 +29,8 @@
 <text x="271" y="329" fill="#AFA9EC" font-size="12" font-family="sans-serif" text-anchor="middle">Database x1</text>
 <text x="28" y="362" fill="#1D9E75" font-size="12" font-family="sans-serif" font-weight="600">FUNDAMENTAL</text>
 <rect x="28" y="372" width="76" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
-<text x="66" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">Array x2</text>
+<text x="66" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">Array x3</text>
 <rect x="112" y="372" width="83" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
 <text x="153.5" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">String x1</text>
-<text x="652" y="428" fill="#484f58" font-size="10" font-family="sans-serif" text-anchor="end">updated 2026-08-09</text>
+<text x="652" y="428" fill="#484f58" font-size="10" font-family="sans-serif" text-anchor="end">updated 2026-08-10</text>
 </svg>
