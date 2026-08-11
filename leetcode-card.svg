@@ -2,7 +2,7 @@
 <title>LeetCode stats</title>
 <rect x="0" y="0" width="680" height="448" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <text x="28" y="42" fill="#e6edf3" font-size="18" font-family="sans-serif" font-weight="600">LeetCode stats</text>
-<text x="28" y="80" fill="#8b949e" font-size="13" font-family="sans-serif">Problems Solved</text>
+<text x="28" y="80" fill="#8b949e" font-size="13" font-family="sans-serif">Languages</text>
 <text x="28" y="106" fill="#e6edf3" font-size="13" font-family="sans-serif">PHP</text>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#21262d"/>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#F0997B"/>
@@ -34,5 +34,5 @@
 <text x="153.5" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">String x1</text>
 <rect x="203" y="372" width="89" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
 <text x="247.5" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">Sorting x1</text>
-<text x="652" y="428" fill="#484f58" font-size="10" font-family="sans-serif" text-anchor="end">updated 2026-08-10</text>
+<text x="652" y="428" fill="#484f58" font-size="10" font-family="sans-serif" text-anchor="end">updated 2026-08-11</text>
 </svg>
