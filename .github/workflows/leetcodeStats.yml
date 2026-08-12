@@ -16,6 +16,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
  
+      - name: Fix SSL certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install --reinstall -y ca-certificates
+          sudo update-ca-certificates
+          git config --global http.sslCAInfo /etc/ssl/certs/ca-certificates.crt
+ 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
