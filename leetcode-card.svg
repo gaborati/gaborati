@@ -2,7 +2,7 @@
 <title>LeetCode stats</title>
 <rect x="0" y="0" width="680" height="448" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <text x="28" y="42" fill="#e6edf3" font-size="18" font-family="sans-serif" font-weight="600">LeetCode stats</text>
-<text x="28" y="80" fill="#8b949e" font-size="13" font-family="sans-serif">Languages</text>
+<text x="28" y="80" fill="#8b949e" font-size="13" font-family="sans-serif">Solved Problems</text>
 <text x="28" y="106" fill="#e6edf3" font-size="13" font-family="sans-serif">PHP</text>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#21262d"/>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#F0997B"/>
