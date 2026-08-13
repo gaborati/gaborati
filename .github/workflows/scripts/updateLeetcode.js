@@ -134,7 +134,7 @@ function buildSvg(user) {
   let y = 80;
  
   // Languages section
-  svgParts.push(`<text x="${padX}" y="${y}" fill="#8b949e" font-size="13" font-family="sans-serif">Languages</text>`);
+  svgParts.push(`<text x="${padX}" y="${y}" fill="#8b949e" font-size="13" font-family="sans-serif">Solved Problems</text>`);
   y += 26;
  
   languages.forEach((lang, i) => {
