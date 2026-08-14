@@ -6,14 +6,14 @@
 <text x="28" y="106" fill="#e6edf3" font-size="13" font-family="sans-serif">PHP</text>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#21262d"/>
 <rect x="120" y="94" width="300" height="14" rx="7" fill="#F0997B"/>
-<text x="430" y="106" fill="#8b949e" font-size="12" font-family="sans-serif">9</text>
+<text x="430" y="106" fill="#8b949e" font-size="12" font-family="sans-serif">10</text>
 <text x="28" y="132" fill="#e6edf3" font-size="13" font-family="sans-serif">JavaScript</text>
 <rect x="120" y="120" width="300" height="14" rx="7" fill="#21262d"/>
-<rect x="120" y="120" width="67" height="14" rx="7" fill="#EF9F27"/>
+<rect x="120" y="120" width="60" height="14" rx="7" fill="#EF9F27"/>
 <text x="430" y="132" fill="#8b949e" font-size="12" font-family="sans-serif">2</text>
 <text x="28" y="158" fill="#e6edf3" font-size="13" font-family="sans-serif">MySQL</text>
 <rect x="120" y="146" width="300" height="14" rx="7" fill="#21262d"/>
-<rect x="120" y="146" width="33" height="14" rx="7" fill="#5DCAA5"/>
+<rect x="120" y="146" width="30" height="14" rx="7" fill="#5DCAA5"/>
 <text x="430" y="158" fill="#8b949e" font-size="12" font-family="sans-serif">1</text>
 <line x1="28" y1="194" x2="652" y2="194" stroke="#21262d" stroke-width="1"/>
 <text x="28" y="222" fill="#8b949e" font-size="13" font-family="sans-serif">Skills</text>
@@ -22,7 +22,7 @@
 <text x="111.5" y="269" fill="#ED93B1" font-size="12" font-family="sans-serif" text-anchor="middle">Dynamic Programming x2</text>
 <text x="28" y="302" fill="#7F77DD" font-size="12" font-family="sans-serif" font-weight="600">INTERMEDIATE</text>
 <rect x="28" y="312" width="109" height="26" rx="13" fill="#26215C" stroke="#7F77DD" stroke-width="1"/>
-<text x="82.5" y="329" fill="#AFA9EC" font-size="12" font-family="sans-serif" text-anchor="middle">Hash Table x4</text>
+<text x="82.5" y="329" fill="#AFA9EC" font-size="12" font-family="sans-serif" text-anchor="middle">Hash Table x5</text>
 <rect x="145" y="312" width="70" height="26" rx="13" fill="#26215C" stroke="#7F77DD" stroke-width="1"/>
 <text x="180" y="329" fill="#AFA9EC" font-size="12" font-family="sans-serif" text-anchor="middle">Math x4</text>
 <rect x="223" y="312" width="96" height="26" rx="13" fill="#26215C" stroke="#7F77DD" stroke-width="1"/>
@@ -31,10 +31,10 @@
 <rect x="28" y="372" width="76" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
 <text x="66" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">Array x5</text>
 <rect x="112" y="372" width="83" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
-<text x="153.5" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">String x3</text>
+<text x="153.5" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">String x4</text>
 <rect x="203" y="372" width="89" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
 <text x="247.5" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">Sorting x1</text>
 <rect x="300" y="372" width="122" height="26" rx="13" fill="#04342C" stroke="#1D9E75" stroke-width="1"/>
 <text x="361" y="389" fill="#5DCAA5" font-size="12" font-family="sans-serif" text-anchor="middle">Two Pointers x1</text>
-<text x="652" y="428" fill="#484f58" font-size="10" font-family="sans-serif" text-anchor="end">updated 2026-08-13</text>
+<text x="652" y="428" fill="#484f58" font-size="10" font-family="sans-serif" text-anchor="end">updated 2026-08-14</text>
 </svg>
