@@ -1,6 +1,7 @@
 
 ## Full-Stack Developer 
- 
+
+ I am interested in mathematics and programming.
 
 ## Tech Stack
  
