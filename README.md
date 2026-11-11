@@ -1,7 +1,7 @@
 
 ## Full-Stack Developer 
 
- I am interested in mathematics and programming.
+ I am interested in mathematics and programming. If you like one of my projects, give me a follow—it helps keep my motivation up.
 
 ## Tech Stack
  
